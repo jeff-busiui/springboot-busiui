@@ -39,6 +39,8 @@ VALUES('zhang5', 'zhang5@126.com');
 ## 创建busi-ui-service工程
 已完成如下步骤：
 * 主工程搭建,端口9001
+  hutool工具包
+  lombok工具
 * 集成mybatis-plus
 * 集成druid连接池
    druid地址：http://localhost:9001/druid
